@@ -1,4 +1,4 @@
-# Simple & Stroked Style Icon Pack
+# Minma Icon Pack
 
 Simple & Stroked Style Icon Pack with a touch of roundness and drop shadow.
 
